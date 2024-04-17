@@ -27,12 +27,13 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 ```
+![counts](https://github.com/arielcs309/Sentiment_analysis_whatsapp/blob/master/Sentiment_counts.png)
 ## Wordcloud 
 ``` bash
 from wordcloud import WordCloud
 from wordcloud import STOPWORDS
 ```
-
+![wordcloud](https://github.com/arielcs309/Sentiment_analysis_whatsapp/blob/master/Wordcloud.png)
 # Language
 ![python](https://github.com/arielcs309/ML-Sklearn/blob/main/python.jpg)
 
